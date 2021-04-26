@@ -1,10 +1,10 @@
 # work-day-scheduler
 
-#Description:
+# Description:
 
 Created a calendar application that allows a user to save events from 9am to 5pm! 
 
-#Frameworks
+# Frameworks:
 
 This app runs in the browser and features dynamically updated HTML and CSS powered by jQuery and Bootstrap.
 
